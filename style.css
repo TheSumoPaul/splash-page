@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+  font-size: 82px;
+  font-family: arial;
+  color: #5ac471;
+}
+
+.background {
+  width: 800px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  top: 100px;
+}
+
+.background img {
+  max-width: 100%;
+}
+
+.info {
+  position: absolute;
+  top: 20px;
+  font-style: bold;
+  font-family: "Franklin Gothic Medium";
+  font-size: 20px;
+  text-align: center;
+}
+
+#business {
+  color: #000000;
+}
+
+button {
+  border: none;
+  font-size: 50px;
+  font-style: bold;
+  background-color: #479cc4;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 16px;
+}
